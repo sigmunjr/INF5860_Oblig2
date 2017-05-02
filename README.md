@@ -26,7 +26,7 @@ a fully connected layer in tensorflow.
 ## Get Started
 Download the starter code from git with:
 
-    git clone https://github.com/sigmunjr/INF5860_oblig2.git
+    git clone https://github.com/sigmunjr/INF5860_Oblig2.git
 
 **[Option 1] Use IFI-linux computer:**
 
