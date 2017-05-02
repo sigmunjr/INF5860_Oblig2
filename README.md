@@ -63,7 +63,7 @@ deactivate                       # Exit the virtual environment
 
 **Download data:**
 Once you have the starter code, you will need to download the CIFAR-10 dataset.
-Run the following from the `INF5860_oblig2` directory:
+Run the following from the `INF5860_Oblig2` directory:
 
 ```bash
 cd datasets
@@ -73,7 +73,7 @@ cd datasets
 
 **Start Jupyter:**
 After you have the CIFAR-10 data, you should start the **jupyter notebook** server
-from the `INF5860_oblig2` directory. In the `INF5860_oblig2` directory run:
+from the `INF5860_oblig2` directory. In the `INF5860_Oblig2` directory run:
 
     jupyter notebook
     
